@@ -1,8 +1,8 @@
 ---
 title: Authoritatively Wrong
 date: 2023-05-10 00:00:00 -0800
-categories: [Software]
-tags: [web, chatgpt, rant, python]     # TAG names should always be lowercase
+categories: [Rant]
+tags: [web, chatgpt, python]     # TAG names should always be lowercase
 ---
 
 Good news for all the people who think ChatGPT will destroy knowledge as we know it by spewing seemingly correct and authoritative but subtly wrong text. [Normal people have been doing it forever](https://medium.com/@anju.calinfo7/major-differences-between-cpython-vs-python-you-know-e9fd32f043d7). 
