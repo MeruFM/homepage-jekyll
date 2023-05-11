@@ -20,7 +20,7 @@ timezone: America/Los_Angeles
 
 title: Willy Zhang # the main title
 
-tagline: A site on the internet # it will display as the sub-title
+tagline: Vaguely interesting content # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Willy Zhang's Blog, Activities, and Interests
