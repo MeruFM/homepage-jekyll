@@ -15,4 +15,4 @@ This happens to be the top Google result when searching "cpython vs python", a v
 
 But enough ranting, maybe this page will show up in someone's Google search in the future so I want to at least be a bit useful.
 
-So here's my guide to [CPython vs Python](posts/cpython).
+So here's my guide to [CPython vs Python](/posts/cpython).
