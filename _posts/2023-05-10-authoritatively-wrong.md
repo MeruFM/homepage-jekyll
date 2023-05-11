@@ -1,7 +1,7 @@
 ---
 title: Authoritatively Wrong
 date: 2023-05-10 00:00:00 -0800
-categories: [Rant]
+categories: [Software, Rant]
 tags: [web, chatgpt, python]     # TAG names should always be lowercase
 ---
 
