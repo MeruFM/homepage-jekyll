@@ -9,7 +9,7 @@ Good news for all the people who think ChatGPT will destroy knowledge as we know
 
 This happens to be the top Google result when searching "cpython vs python", a very normal question for anyone who recently learned about pypy or cython. Google even provided a lovely blub of the article possibly to mislead any well intentioned searcher from understanding this topic any more.
 
-![Google blurb of the linked article](/assets/img/2023-05-10-authoritatively-wrong/image.png)
+![Google blurb of the linked article](assets/img/2023-05-10-authoritatively-wrong/image.png)
 
 ---
 
