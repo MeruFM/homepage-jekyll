@@ -146,7 +146,7 @@ defaults:
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
-      permalink: willyzhang.com/posts/:title/
+      permalink: posts/:title/
   - scope:
       path: _drafts
     values:
@@ -156,7 +156,7 @@ defaults:
       type: tabs # see `site.collections`
     values:
       layout: page
-      permalink: willyzhang.com/:title/
+      permalink: :title/
   - scope:
       path: assets/img/favicons
     values:
@@ -195,5 +195,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: willyzhang.com/tags/:name/
-    category: willyzhang.com/categories/:name/
+    tag: tags/:name/
+    category: categories/:name/
